@@ -1,0 +1,18 @@
+Réseau de neurones
+===================
+
+Introduction
+------------
+Depuis longtemps je voulais me lancer dans les réseaux de neurones, mais je n'en avais pas trouver le temps. C'est maintenant chose faite. Dans cette article je vais vous expliquer mes différentes expériences dans l'apprentissage de cette nouvelle façon de penser la programmation.
+
+Pour des raisons de simplicité et d'un absence de contraintes de performances, j'utiliserai le langage python pour le code métier et la bibliothèque pygame pour la visualisation.
+
+L'ensemble des codes seront disponibles sur https://github.com/Akanoa/Neural
+
+Perceptron
+----------
+### Avant-propos
+Avant de me lancer dans la création d'un réseau de neurone, j'ai voulu comprendre le fonctionnement d'un neurone. Avant d'aller plus loin, définissons ce qu'est un neurone au sens informatique du terme.
+
+Un neurone est une entité disposant de n entrés et d'une sortie. La sortie est influencée par les entrés, mais aussi par l'ensemble des résultats qui ont prédécés. 
+
