@@ -17,7 +17,7 @@ Avant de me lancer dans la création d'un réseau de neurone, j'ai voulu compren
 Un neurone est une entité disposant de n entrés et d'une sortie. La sortie est influencée par les entrés, mais aussi par l'ensemble des résultats qui ont prédécés. 
 
 
-### Enregistrement des différent entraînements
+### Enregistrement des différents entraînements
 Il est assez rageant de voir qu'a chaque run il faut repartir depuis le dépuis, et que tout l'expérience acquise est perdue. Pour remédier à cela la manière la plus simple est d'enregister l'état du perceptron dans un fichier et de le recharger par la suite. Pour cela, j'ai utilisé le module cPickle qui me permet de sauvegarder un instantanné de l'état d'un objet et le recharger par la suite.
 pour cela j'ajoute des actions à ma ligne de commande.
 	
