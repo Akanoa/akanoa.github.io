@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "Akanoa",
-    "repositoryName": "akanoa.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"Akanoa","repositoryName":"akanoa.github.io","branch":"master"},"site":{"title":"Le bazar de Noa","logo":"Repousser les limites de sa compréhension","url":"https://Akanoa.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//Akanoa.github.io/themes/Casper"}}
